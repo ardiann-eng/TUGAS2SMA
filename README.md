@@ -1,6 +1,6 @@
 # TUGAS2SMA
 
-Alasan Saya Melakukan Scraping Data Twitter Purbaya, Menkeu
+Alasan Saya Melakukan Scraping Data Twitter Pak Purbaya, Menkeu
 
 Sebagai mahasiswa, saya melihat pentingnya memahami dinamika opini publik terhadap tokoh-tokoh yang berperan dalam kebijakan ekonomi Indonesia. Salah satunya adalah Purbaya, seorang pejabat yang berhubungan dengan Kementerian Keuangan. Twitter menjadi ruang diskusi publik yang paling cepat dalam menyebarkan informasi, kritik, maupun dukungan. Oleh karena itu, scraping data dari Twitter tentang Purbaya menjadi langkah penting bagi saya.
 
